@@ -4,4 +4,7 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
 
+dev开始工作了
+在dev上继续修改
 dev开始工作了,在dev上继续修改
+
